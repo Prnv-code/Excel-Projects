@@ -1,6 +1,6 @@
 An interactive Excel dashboard for BlinkIT grocery sales analysis, showcasing insights on sales, outlet performance, item categories, and customer preferences.
 
-📊 Dashboard Overview
+##📊 Dashboard Overview
 
 This project analyzes BlinkIT’s grocery sales dataset and provides a dynamic Excel dashboard with the following highlights:
 
@@ -12,7 +12,7 @@ Number of Items: 8523
 
 Average Rating: 4.0
 
-Features:
+##Features:
 
 Filter panel for Outlet Size, Outlet Location, and Item Type
 
@@ -26,7 +26,7 @@ Item category breakdown (Fruits, Snack Foods, Dairy, etc.)
 
 Outlet type performance (Supermarket, Grocery Store)
 
-🛠 Tools Used
+##🛠 Tools Used
 
 Microsoft Excel
 
@@ -38,7 +38,7 @@ Conditional Formatting
 
 Data Visualization
 
-🚀 How to Use
+##🚀 How to Use
 
 Download the dataset and dashboard file from this repository.
 
@@ -56,7 +56,7 @@ Use the Filter Panel to interact with the dashboard and explore insights.
 
 📷 Project Snapshot
 
-📌 Project Purpose
+##📌 Project Purpose
 
 The goal of this project is to:
 
