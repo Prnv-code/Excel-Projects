@@ -1,0 +1,2 @@
+# Excel-Projects
+"A collection of Excel projects showcasing data analysis and interactive dashboards. Includes work with formulas, pivot tables, charts, and visual reports to demonstrate insights and decision-making."
