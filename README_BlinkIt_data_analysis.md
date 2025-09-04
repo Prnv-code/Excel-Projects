@@ -4,7 +4,7 @@ An interactive Excel dashboard for BlinkIT grocery sales analysis, showcasing in
 
 This project analyzes BlinkIT’s grocery sales dataset and provides a dynamic Excel dashboard with the following highlights:
 
-Total Sales: $1.20M
+- Total Sales: $1.20M
 
 Average Sales: $141
 
