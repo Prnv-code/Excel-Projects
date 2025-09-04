@@ -6,45 +6,45 @@ This project analyzes BlinkIT’s grocery sales dataset and provides a dynamic E
 
 - Total Sales: $1.20M
 
-Average Sales: $141
+- Average Sales: $141
 
-Number of Items: 8523
+- Number of Items: 8523
 
-Average Rating: 4.0
+- Average Rating: 4.0
 
 ## Features:
 
-Filter panel for Outlet Size, Outlet Location, and Item Type
+- Filter panel for Outlet Size, Outlet Location, and Item Type
 
-Sales trends by Outlet Establishment Year
+- Sales trends by Outlet Establishment Year
 
-Analysis of Fat Content (Low Fat vs Regular)
+- Analysis of Fat Content (Low Fat vs Regular)
 
-Sales by Outlet Size & Location
+- Sales by Outlet Size & Location
 
-Item category breakdown (Fruits, Snack Foods, Dairy, etc.)
+- Item category breakdown (Fruits, Snack Foods, Dairy, etc.)
 
-Outlet type performance (Supermarket, Grocery Store)
+- Outlet type performance (Supermarket, Grocery Store)
 
 ## 🛠 Tools Used
 
-Microsoft Excel
+- Microsoft Excel
 
-Pivot Tables & Charts
+- Pivot Tables & Charts
 
-Slicers and Filters
+- Slicers and Filters
 
-Conditional Formatting
+- Conditional Formatting
 
-Data Visualization
+- Data Visualization
 
 ## 🚀 How to Use
 
-Download the dataset and dashboard file from this repository.
+- Download the dataset and dashboard file from this repository.
 
-Open the Excel file in MS Excel (2016 or later recommended).
+- Open the Excel file in MS Excel (2016 or later recommended).
 
-Use the Filter Panel to interact with the dashboard and explore insights.
+- Use the Filter Panel to interact with the dashboard and explore insights.
 
 📂 Files in this Repository
 
@@ -60,8 +60,8 @@ Use the Filter Panel to interact with the dashboard and explore insights.
 
 The goal of this project is to:
 
-Perform data analysis on grocery sales data
+- Perform data analysis on grocery sales data
 
-Build an interactive dashboard for better decision-making
+- Build an interactive dashboard for better decision-making
 
-Gain insights into outlet performance, item categories, and sales distribution
+- Gain insights into outlet performance, item categories, and sales distribution
