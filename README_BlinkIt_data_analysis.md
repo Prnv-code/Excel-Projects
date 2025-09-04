@@ -49,6 +49,7 @@ This project analyzes BlinkIT’s grocery sales dataset and provides a dynamic E
 ## 📂 Files in this Repository
 
 ### 📑 Dataset
+<a href ="BlinkIT Grocery Data Analysis.xlsx"> Dataset Link </a>
 
 📊 Dashboard Excel File
 
