@@ -46,9 +46,9 @@ This project analyzes BlinkIT’s grocery sales dataset and provides a dynamic E
 
 - Use the Filter Panel to interact with the dashboard and explore insights.
 
-📂 Files in this Repository
+## 📂 Files in this Repository
 
-📑 Dataset
+### 📑 Dataset
 
 📊 Dashboard Excel File
 
